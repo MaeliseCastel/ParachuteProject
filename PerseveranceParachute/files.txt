@@ -1,0 +1,17 @@
+../README.md
+PerseveranceParachute.pro
+include/MainWindow.h
+src/MainWindow.cpp
+include/Message.h
+src/Message.cpp
+include/ParachuteView.h
+src/ParachuteView.cpp
+include/BitsView.h
+src/BitsView.cpp
+include/SliderSpinBoxWidget.h
+src/SliderSpinBoxWidget.cpp
+include/ParametersReader.h
+src/ParametersReader.cpp
+include/ParametersWriter.h
+src/ParametersWriter.h
+src/main.cpp
